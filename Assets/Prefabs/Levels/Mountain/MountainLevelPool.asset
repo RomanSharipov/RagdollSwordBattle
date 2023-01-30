@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67d32ae8b65b1ed4bbe5750d0d2f317e, type: 3}
+  m_Name: MountainLevelPool
+  m_EditorClassIdentifier: 
+  _levels:
+  - {fileID: 2260329698375191717, guid: 1982e76a4f2293642a87e72617ef479d, type: 3}
+  - {fileID: 2975979168971051700, guid: 6a0f75f3196b48c439242e25872dfe67, type: 3}
+  - {fileID: 1315698421534834340, guid: dc2cc5b5300c736499aecc417696c343, type: 3}
+  - {fileID: 5221298723203910807, guid: e4989e716e7b12f48934ac54bcf5c1df, type: 3}
+  - {fileID: 5738538018910167573, guid: 9526cdf4b360fc74898fd38a5aaca4a9, type: 3}

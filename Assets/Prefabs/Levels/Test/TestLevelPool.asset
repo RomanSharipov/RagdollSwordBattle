@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67d32ae8b65b1ed4bbe5750d0d2f317e, type: 3}
+  m_Name: TestLevelPool
+  m_EditorClassIdentifier: 
+  _levels:
+  - {fileID: 8788019888528984695, guid: 60b9cc6a28dfb774fb0b7dc0bdbd21c2, type: 3}
+  - {fileID: 25799162851291090, guid: 4847c71c8947ad24eb552fb5d9bcfe73, type: 3}
+  - {fileID: 232210855820839791, guid: adbbd64a45d46de44934dab41d1e6b7c, type: 3}
+  - {fileID: 6450809414630593893, guid: c812f79f982e3914bb6ec9ff318578c8, type: 3}

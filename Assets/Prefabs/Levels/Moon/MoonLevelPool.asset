@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67d32ae8b65b1ed4bbe5750d0d2f317e, type: 3}
+  m_Name: MoonLevelPool
+  m_EditorClassIdentifier: 
+  _levels:
+  - {fileID: 505836527544584113, guid: 25775919d54971f42a39fc5f92264fb3, type: 3}
+  - {fileID: 4760018840084107593, guid: 09a74525c24e8d14183cf6fd0b4c6592, type: 3}
+  - {fileID: 2167420807219617924, guid: 87fc0463968d5084193f5d224564028f, type: 3}
+  - {fileID: 8180531837357188095, guid: 32ab0173cf0872749aa73c6b42793ff8, type: 3}
+  - {fileID: 5738538018910167573, guid: 9526cdf4b360fc74898fd38a5aaca4a9, type: 3}

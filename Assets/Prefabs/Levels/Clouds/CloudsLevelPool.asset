@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67d32ae8b65b1ed4bbe5750d0d2f317e, type: 3}
+  m_Name: CloudsLevelPool
+  m_EditorClassIdentifier: 
+  _levels:
+  - {fileID: 2325115335692128244, guid: d34cc7f3d63fc954ab52314969618056, type: 3}
+  - {fileID: 3243529973639522082, guid: d509bece71fa78d4e9dcfb62a7a7c381, type: 3}
+  - {fileID: 2068553209463090647, guid: 63f0f532f2d42e1498f4dfb08e817043, type: 3}
+  - {fileID: 3522808961231186774, guid: 32ec4ca883bad364a9c90c655a0a836a, type: 3}
+  - {fileID: 5738538018910167573, guid: 9526cdf4b360fc74898fd38a5aaca4a9, type: 3}
